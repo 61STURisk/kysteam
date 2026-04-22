@@ -1,2 +1,2 @@
 # kysteam
-about some risk control stuty
+about some risk control study
